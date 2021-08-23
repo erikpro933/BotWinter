@@ -1,0 +1,7 @@
+module.exports = ({
+name: "clear-queue",
+code: `
+I cleared the song queue and stop the music playback after the current song!
+$clearSongQueue
+`
+})
